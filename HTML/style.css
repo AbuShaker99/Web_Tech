@@ -1,0 +1,87 @@
+.main_header{
+    background-color: tomato;
+    
+}
+.felxible_container{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.menu1{
+    display: flex;
+    
+    background-color: black;
+    color: rgb(240, 240, 240);
+    padding: 2%;
+    
+    
+
+}
+.bottom1{
+    background-color: rgb(255, 105, 59);
+    color: rgb(148, 50, 4);
+    background-image: url(shapes/7.png)
+    
+    
+    
+
+}
+.Website{
+    
+background-color: rgb(255, 105, 59);
+}
+
+
+a{
+    color: white;
+}
+
+.experiances-area{
+    display: flex;
+    ;}
+
+
+.experiances{
+   
+        margin-top:3% ;
+        width: 39%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left: 30px;
+        color: gray;
+        text-align: center;
+        
+        }
+        .experiances1{
+            
+            margin-top:8% ;
+            width: 39%;
+            margin-left: 5%;
+            margin-right: 5%;
+            padding-left: 30px;
+            background-color: black;
+            color: white;
+        }
+        
+footer{
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2%;
+    margin-top: 100px;
+    
+
+}  
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+  }
+  li{
+    display: inline;
+  }
+
+
+
